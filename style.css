@@ -12,19 +12,14 @@ h1 {
     }
 h5 {
 	color: #800080;
-    }
-.zagl {
-	font-family: "Rubik Puddles", system-ui;
+}
+.rubik-glitch pop-regular {
+  font-family: "Rubik Glitch Pop", system-ui;
   font-weight: 400;
   font-style: normal;
-      }
+}
 .zagl h3 {
 	font-size: 30px;
 	color: #9370DB;
          }
-.zagl th {
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Rubik+Puddles&display=swap" rel="stylesheet">
-	}
 	
