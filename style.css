@@ -22,12 +22,14 @@ h5 {
 	font-size: 30px;
 	color: #9370DB;
          }
-.menu {
+.menu 
+{
 	text-align: center;
 	margin: auto;
 	width: 80%;
 }
-.menu li {
+.menu li 
+{
 	list-style-type: none;
 	display: inline-table;
 	width: 20%
